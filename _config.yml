@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Minh-Quang PHAM"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Ph.D. student, Machine Translation"
+  location         : "Massy Palaiseau, France"
+  employer         : "University Paris-Saclay, LISN/CNRS, SYSTRAN"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vXX_GLwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
