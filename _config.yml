@@ -160,7 +160,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+"""
 # Markdown Processing
 kramdown:
   input: GFM
@@ -275,3 +275,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+"""
