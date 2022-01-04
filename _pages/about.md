@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I have succesfully defensed my Ph.D. thesis in "Multidomain Neural Machine Translation". Before my Ph.D. years, I graduated from Ecole Polytechnique. I also obtained two diplomas including an M.S. in Data Science from Université Paris-Saclay and M.Eng. in Data Science from Télécom ParisTech.
-
+I have successfully defended my Ph.D. thesis in "Multidomain Neural Machine Translation." Before my Ph.D. years, I graduated from Ecole Polytechnique. I also obtained two diplomas, including an M.S. in Data Science from Université Paris-Saclay and M.Eng. in Data Science from Télécom ParisTech.
