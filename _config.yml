@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         : "Mistral AI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=vXX_GLwAAAAJ&hl=en"
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
